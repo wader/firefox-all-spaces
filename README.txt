@@ -1,3 +1,6 @@
+If you read this on github the easiest way to install is to download
+the whole repos as a zip-file (press "Downloads" then "Download .zip")
+
 This hack assumes you already have Firefox installed in /Applications.
 
 To install drag "Firefox all spaces.app" to your applications etc.
